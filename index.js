@@ -15,7 +15,7 @@ class Tree {
       this.name = name; 
     }
     static definition() {
-      super.definition() + ''
+      super.definition() + "Deciduous trees shed their leaves annually."; 
     }
   }
 }
